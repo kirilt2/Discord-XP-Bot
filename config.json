@@ -1,0 +1,10 @@
+{
+    "token": "Token",
+    "bot-status": "Bot-Stuts",
+    "XP_THRESHOLD": 100,
+    "XP_PER_MESSAGE": 5,
+    "ADMIN_ROLE_IDS": [11],
+    "LOG_CHANNEL_ID": 123131231,
+    "LEVEL_UP_CHANNEL_ID": 313123131321,
+    "XP_COOLDOWN": 30
+}
